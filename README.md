@@ -40,7 +40,7 @@ The architectural style of a Cloud-Ed Service would be MIMD (Multiple Instructio
  It allows multiple users to access and modify the same data simultaneously, while each user's device executes its own set of instructions on its own data. This makes it possible for multiple users to collaborate on an educational platform  in real-time and access the data simultaneously. The changes made by the administrator will immediately  be reflected for all other users who have access to those contents or folders.
 
 
-<img src=![image](https://user-images.githubusercontent.com/112755503/226580892-f73ba9c4-48ef-4fb9-94b3-125fa21d8f37.png) alt><br/>
+<img src="https://user-images.githubusercontent.com/112755503/226581167-c59c9586-dc9d-4abd-8758-d4465ef2946a.png" alt><br/>
 
 
 
