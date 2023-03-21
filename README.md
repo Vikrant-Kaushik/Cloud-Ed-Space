@@ -25,13 +25,7 @@ In this era of rapidly increasing technology and greater competition in every se
 
 ## Flowchart:
 
-
-
-
-
  <img src="https://user-images.githubusercontent.com/112755503/226563719-b46e335c-e096-4566-86d9-0e044e6969e9.png" alt><br/>
-
-
 
 
 ## Using Public Cloud for Deploying the final product:
@@ -41,14 +35,12 @@ Ultimately, the choice between AWS and Azure will depend on a variety of factors
 According to my needs and requirements, Azure is a better option to choose due to its flexible deployment options, robustness, integration with Microsoft products and cost effectiveness.
 
 
-
-
-
-
-
-
-
 ## Architectural Style:
 The architectural style of a Cloud-Ed Service would be MIMD (Multiple Instruction, Multiple Data). The MIMD Architecture includes parallel architectures made of multiple processors and multiple memory modules linked via some interconnection network. In the cloud ed service the users give different instructions at the same time and get desired results simultaneously which is the property of MIMD architecture. The server is responsible for managing the consistency and integrity of the data, and clients can access the data from any location as long as they have an internet connection.
  It allows multiple users to access and modify the same data simultaneously, while each user's device executes its own set of instructions on its own data. This makes it possible for multiple users to collaborate on an educational platform  in real-time and access the data simultaneously. The changes made by the administrator will immediately  be reflected for all other users who have access to those contents or folders.
+
+
+ 
+
+![Screenshot (764)](https://user-images.githubusercontent.com/112755503/226579747-42c9867c-3743-422a-9daf-452562d8d949.png)
 
