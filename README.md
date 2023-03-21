@@ -14,12 +14,12 @@ In this era of rapidly increasing technology and greater competition in every se
 
 
 ## Benefits of deployment on Cloud:
-Simple & easy to use
-On demand (24/7) access to the resources
-Secure and scalable 
-No loss of time for students and needy
-Highly available
-Saves time and money
+* Simple & easy to use
+* On demand (24/7) access to the resources
+* Secure and scalable 
+* No loss of time for students and needy
+* Highly available
+* Saves time and money
 
 
 
@@ -28,10 +28,9 @@ Saves time and money
 
 
 
-<p>
-    <img src="https://user-images.githubusercontent.com/112755503/226563719-b46e335c-e096-4566-86d9-0e044e6969e9.png" alt><br/>
-    <em>Overall Flow of the Project</em>
-</p>
+
+ <img src="https://user-images.githubusercontent.com/112755503/226563719-b46e335c-e096-4566-86d9-0e044e6969e9.png" alt><br/>
+
 
 
 
