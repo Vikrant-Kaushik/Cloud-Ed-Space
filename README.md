@@ -1,8 +1,8 @@
 # Cloud-Ed-Space
 Cloud platform where different folders and sections will be created containing education contents in an interactive manner. 
 
-Project Tile: 
-Cloud Ed-Space Service
+# Project Tile: 
+##Cloud Ed-Space Service
 
 
 Problem Statement:
