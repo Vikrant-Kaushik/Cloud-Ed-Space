@@ -28,7 +28,10 @@ Saves time and money
 
 
 
-
+<p>
+    <img src="https://user-images.githubusercontent.com/112755503/226563719-b46e335c-e096-4566-86d9-0e044e6969e9.png" alt><br/>
+    <em>Overall Flow of the Project</em>
+</p>
 
 
 
